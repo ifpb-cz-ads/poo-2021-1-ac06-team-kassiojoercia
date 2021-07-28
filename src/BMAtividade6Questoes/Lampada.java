@@ -1,3 +1,4 @@
+package BMAtividade6Questoes;
 /*
 * 4) Crie uma classe em Java correspondente ao modelo criado na questão 1.
 */

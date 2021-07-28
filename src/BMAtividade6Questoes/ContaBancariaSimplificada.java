@@ -1,3 +1,4 @@
+package BMAtividade6Questoes;
 /*
 * 6) Modifique o método “abreContaSimples” da classe “ContaBancariaSimplificada”
 * de forma que o cliente só possa abrir uma conta com um valor mínimo de R$ 100,00.

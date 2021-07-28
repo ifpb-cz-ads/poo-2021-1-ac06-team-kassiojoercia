@@ -1,3 +1,4 @@
+package BMAtividade6Questoes;
 public class App {
     public static void main(String[] args) throws Exception {
         Lampada BMAtvidade6Exerc4 = new Lampada();
