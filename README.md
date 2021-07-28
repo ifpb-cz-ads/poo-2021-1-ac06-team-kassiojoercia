@@ -45,7 +45,7 @@ campeonato desse esporte. Que dados e operações esse modelo deve ter?</h2>
 <p>No metodo maior existe uma comparação de duas variáveis que não são passadas em seu parametro</p>
 <p>forma errada declarada do metodo: int maior() </p>
 <p>forma certa do metodo: int maior(int num1, int num2) </p>
-<p>No metodo menor existe o uso de retunr em um metodo void, esses metodos não retornam nada</p>
+<p>No metodo menor existe o uso de return em um metodo void, esses metodos não retornam nada</p>
 
 <h2>8) Identifique e explique o(s) erro(s) na classe abaixo:</h2>
 <p>Existe um return true na class main do projeto e isso não pode acontecer</p>
